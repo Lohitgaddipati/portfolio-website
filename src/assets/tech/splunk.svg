@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1603px" height="1000px" viewBox="0 0 1603 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Splunk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="69.4582133%" x2="1.84346182%" y2="30.5417867%" id="linearGradient-1">
+            <stop stop-color="#3B6E00" offset="0%"></stop>
+            <stop stop-color="#529A00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Splunk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="1603" height="1000"></rect>
+        <text id="&lt;" font-family="Helvetica-Bold, Helvetica" font-size="375" font-weight="bold" fill="#FFFFFF">
+            <tspan x="692.00293" y="597">&lt;</tspan>
+        </text>
+    </g>
+</svg>
